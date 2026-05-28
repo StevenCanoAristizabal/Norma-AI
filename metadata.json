@@ -1,0 +1,6 @@
+{
+  "name": "Norma AI",
+  "description": "Plataforma inteligente de consulta normativa para docentes.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
